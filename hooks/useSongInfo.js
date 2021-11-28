@@ -33,4 +33,4 @@ function useSongInfo() {
     return songInfo;
 }
 
-export default useSongInfo
+export default useSongInfo;

@@ -23,4 +23,4 @@ function useSpotify() {
     return spotifyApi;
 }
 
-export default useSpotify
+export default useSpotify;
